@@ -1,4 +1,4 @@
-# ATP Project Part A
+# Maze project
 
 A Java-based framework for generating, compressing, transmitting and solving mazes over a client-server architecture.  
 Implements multiple maze generators and search algorithms, plus custom compressor/decompressor streams and JUnit test suites.
@@ -53,7 +53,7 @@ Implements multiple maze generators and search algorithms, plus custom compresso
 1. **Clone the repository**  
    ```bash
    git clone <your-repo-url>
-   cd ATP-Project-PartA
+   cd Maze-project
    ```
 
 2. **Import into IntelliJ**  
@@ -67,7 +67,7 @@ Implements multiple maze generators and search algorithms, plus custom compresso
 ## Project Structure
 
 ```
-ATP-Project-PartA/
+Maze-project/
 ├── .idea/                     # IntelliJ configs
 ├── JUnit/
 │   └── algorithms/search/BestFirstSearchTest.java
